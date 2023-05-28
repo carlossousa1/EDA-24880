@@ -1,0 +1,1 @@
+Esta versão contém um ficheiro isolado de experimentos com grafos
